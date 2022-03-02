@@ -1,8 +1,14 @@
 # Repository description
 
 This repostory is about Redux and a simple second app in order to understand Redux functionality. It is a second part part of a practice module about Redux from Udemy's course `React - The Complete Guide (incl Hooks, React Router, Redux)`.
+<br>
+Course URL
 
-https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+- https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+  <br>
+  Project URL
+- http://redux-tutorial.nicolasfernandez.online/
+  <br>
 
 # Module descriptions
 

@@ -31,7 +31,7 @@ export const fetchCartDataActionCreator = () => {
       cartActions.replaceCart({
         cart: {
           items: cartData.items || [],
-          totalQuantity: 0,
+          totalQuantity: cartData.totalQuantity,
         },
       })
     );
